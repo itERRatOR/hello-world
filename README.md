@@ -1,4 +1,7 @@
-# hello-world
-My first GitHub repository
+hello-world
+===========
 
-# end of README file
+Hi, Humans!
+
+Anton is here :) I am a passionate Java Developer and Traveller.
+
